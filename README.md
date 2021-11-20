@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slysenko1
 - 👀 I’m interested in IaC, Terraform, DevOps, GitOps, Clouds 
-- 🌱 I’m currently learning Terraform
+- 🌱 Terraform Deployments
 - 💞️ I’m looking to collaborate on IaC
 - 📫 How to reach me slysenko1@gmail.com
 
